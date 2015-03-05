@@ -56,3 +56,10 @@ D:\Merege Data Folder(2014-08-29)\2015 ( Working Folder )\Basic\Basic\obj\x86\De
 D:\Merege Data Folder(2014-08-29)\2015 ( Working Folder )\Basic\Basic\obj\x86\Debug\Basic.frmSysParms.resources
 D:\Merege Data Folder(2014-08-29)\2015 ( Working Folder )\Basic\Basic\obj\x86\Debug\Basic.Help.resources
 D:\Merege Data Folder(2014-08-29)\2015 ( Working Folder )\Basic\Basic\obj\x86\Debug\Basic.UILayer.vbproj.GenerateResource.Cache
+E:\Basic\basicuilayer\Basic\obj\x86\Debug\Interop.FPSpreadADO.dll
+E:\Basic\basicuilayer\Basic\obj\x86\Debug\Interop.FPUSpreadADO.dll
+E:\Basic\basicuilayer\Basic\obj\x86\Debug\AxInterop.FPSpreadADO.dll
+E:\Basic\basicuilayer\Basic\obj\x86\Debug\Basic.UILayer.vbproj.ResolveComReference.cache
+E:\Basic\basicuilayer\Basic\obj\x86\Debug\Basic.exe
+E:\Basic\basicuilayer\Basic\obj\x86\Debug\Basic.xml
+E:\Basic\basicuilayer\Basic\obj\x86\Debug\Basic.pdb
