@@ -1,0 +1,12 @@
+C:\Users\Aneela Tariq\Desktop\Basic\Basic.DAL\bin\Debug\Basic.DAL.dll
+C:\Users\Aneela Tariq\Desktop\Basic\Basic.DAL\bin\Debug\Basic.DAL.pdb
+C:\Users\Aneela Tariq\Desktop\Basic\Basic.DAL\bin\Debug\Basic.DAL.xml
+C:\Users\Aneela Tariq\Desktop\Basic\Basic.DAL\obj\Debug\Basic.DAL.Resources.resources
+C:\Users\Aneela Tariq\Desktop\Basic\Basic.DAL\obj\Debug\Basic.DAL.vbproj.GenerateResource.Cache
+C:\Users\Aneela Tariq\Desktop\Basic\Basic.DAL\obj\Debug\Basic.DAL.dll
+C:\Users\Aneela Tariq\Desktop\Basic\Basic.DAL\obj\Debug\Basic.DAL.xml
+C:\Users\Aneela Tariq\Desktop\Basic\Basic.DAL\obj\Debug\Basic.DAL.pdb
+C:\Users\Aneela Tariq\Desktop\Basic\Basic.DAL\bin\Debug\Basic.Constants.dll
+C:\Users\Aneela Tariq\Desktop\Basic\Basic.DAL\bin\Debug\Basic.Constants.pdb
+C:\Users\Aneela Tariq\Desktop\Basic\Basic.DAL\bin\Debug\Basic.Constants.xml
+C:\Users\Aneela Tariq\Desktop\Basic\Basic.DAL\obj\Debug\Basic.DAL.vbprojResolveAssemblyReference.cache
