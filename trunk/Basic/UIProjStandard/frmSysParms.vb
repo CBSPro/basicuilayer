@@ -34,7 +34,7 @@ Public Class frmSysParms
     Private Sub frmSysParms_FormClosing(ByVal sender As Object, ByVal e As System.Windows.Forms.FormClosingEventArgs) Handles Me.FormClosing
         mSysParm = False
         Me.WindowState = FormWindowState.Normal
-        MessageBox.Show("hello")
+        ' MessageBox.Show("hello")
     End Sub
 
     Private Sub frmSysParms_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
