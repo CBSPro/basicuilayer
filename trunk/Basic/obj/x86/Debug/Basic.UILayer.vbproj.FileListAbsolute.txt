@@ -70,3 +70,10 @@ D:\Basic\Basic\obj\x86\Debug\Basic.UILayer.vbproj.ResolveComReference.cache
 D:\Basic\Basic\obj\x86\Debug\Basic.exe
 D:\Basic\Basic\obj\x86\Debug\Basic.xml
 D:\Basic\Basic\obj\x86\Debug\Basic.pdb
+C:\Users\Aneela Tariq\Desktop\getfrom\Basic\obj\x86\Debug\Interop.FPSpreadADO.dll
+C:\Users\Aneela Tariq\Desktop\getfrom\Basic\obj\x86\Debug\Interop.FPUSpreadADO.dll
+C:\Users\Aneela Tariq\Desktop\getfrom\Basic\obj\x86\Debug\AxInterop.FPSpreadADO.dll
+C:\Users\Aneela Tariq\Desktop\getfrom\Basic\obj\x86\Debug\Basic.UILayer.vbproj.ResolveComReference.cache
+C:\Users\Aneela Tariq\Desktop\getfrom\Basic\obj\x86\Debug\Basic.exe
+C:\Users\Aneela Tariq\Desktop\getfrom\Basic\obj\x86\Debug\Basic.xml
+C:\Users\Aneela Tariq\Desktop\getfrom\Basic\obj\x86\Debug\Basic.pdb
