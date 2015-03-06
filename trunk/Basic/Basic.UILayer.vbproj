@@ -147,6 +147,9 @@
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <EmbeddedResource Include="UIModules\UIDialogues\Accounts\checkforsvn.resx">
+      <DependentUpon>checkforsvn.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UIProjStandard\Form1.resx">
       <DependentUpon>Form1.vb</DependentUpon>
     </EmbeddedResource>
