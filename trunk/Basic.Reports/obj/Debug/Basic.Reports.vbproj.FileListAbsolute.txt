@@ -6,3 +6,11 @@ C:\Users\Aneela Tariq\Desktop\Basic\Basic.Reports\obj\Debug\Basic.Reports.vbproj
 C:\Users\Aneela Tariq\Desktop\Basic\Basic.Reports\obj\Debug\Basic.Reports.dll
 C:\Users\Aneela Tariq\Desktop\Basic\Basic.Reports\obj\Debug\Basic.Reports.xml
 C:\Users\Aneela Tariq\Desktop\Basic\Basic.Reports\obj\Debug\Basic.Reports.pdb
+C:\Users\Aneela Tariq\Desktop\getfrom\Basic.Reports\bin\Debug\Basic.Reports.dll
+C:\Users\Aneela Tariq\Desktop\getfrom\Basic.Reports\bin\Debug\Basic.Reports.pdb
+C:\Users\Aneela Tariq\Desktop\getfrom\Basic.Reports\bin\Debug\Basic.Reports.xml
+C:\Users\Aneela Tariq\Desktop\getfrom\Basic.Reports\obj\Debug\Basic.Reports.Resources.resources
+C:\Users\Aneela Tariq\Desktop\getfrom\Basic.Reports\obj\Debug\Basic.Reports.vbproj.GenerateResource.Cache
+C:\Users\Aneela Tariq\Desktop\getfrom\Basic.Reports\obj\Debug\Basic.Reports.dll
+C:\Users\Aneela Tariq\Desktop\getfrom\Basic.Reports\obj\Debug\Basic.Reports.xml
+C:\Users\Aneela Tariq\Desktop\getfrom\Basic.Reports\obj\Debug\Basic.Reports.pdb
