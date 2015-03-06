@@ -63,3 +63,10 @@ E:\Basic\basicuilayer\Basic\obj\x86\Debug\Basic.UILayer.vbproj.ResolveComReferen
 E:\Basic\basicuilayer\Basic\obj\x86\Debug\Basic.exe
 E:\Basic\basicuilayer\Basic\obj\x86\Debug\Basic.xml
 E:\Basic\basicuilayer\Basic\obj\x86\Debug\Basic.pdb
+D:\Basic\Basic\obj\x86\Debug\Interop.FPSpreadADO.dll
+D:\Basic\Basic\obj\x86\Debug\Interop.FPUSpreadADO.dll
+D:\Basic\Basic\obj\x86\Debug\AxInterop.FPSpreadADO.dll
+D:\Basic\Basic\obj\x86\Debug\Basic.UILayer.vbproj.ResolveComReference.cache
+D:\Basic\Basic\obj\x86\Debug\Basic.exe
+D:\Basic\Basic\obj\x86\Debug\Basic.xml
+D:\Basic\Basic\obj\x86\Debug\Basic.pdb
